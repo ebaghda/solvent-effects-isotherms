@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+*.csv
+*.xls
+*.png
+*.pdf
+*.jpg
+*.jpeg
+Archived-Figures
+active-particle-data
+Toy-Models
+*.md
+*.gif
+import_data.py
+Linearized-Isotherm-Fitting-Pd
