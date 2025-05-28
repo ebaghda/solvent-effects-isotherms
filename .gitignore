@@ -17,7 +17,7 @@ wheels/
 Archived-Figures
 active-particle-data
 Toy-Models
-*.md
+notes.md
 *.gif
 import_data.py
 Linearized-Isotherm-Fitting-Pd
